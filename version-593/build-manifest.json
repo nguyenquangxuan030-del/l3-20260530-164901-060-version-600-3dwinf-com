@@ -1,0 +1,10 @@
+{
+  "site_title": "高分电影大全-高分电影排行榜-热门影片在线点播",
+  "logo": "高分电影榜",
+  "movie_count": 2000,
+  "category_count": 10,
+  "detail_page_count": 2000,
+  "html_page_count": 2014,
+  "m3u8_bound": 2000,
+  "image_rule": "movie covers cycle through top-level 1.jpg to 150.jpg"
+}
